@@ -1,4 +1,0 @@
-akad==1.11.1
-requests==2.18.4
-rsa==3.4.2
-PyQRCode==1.2.1
