@@ -1,2 +1,0 @@
-# waretq
-AYY
