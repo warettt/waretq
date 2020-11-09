@@ -1,8 +1,0 @@
-╭───「Menu」
-├ {key}Self
-├ {key}Group
-├ {key}Media
-├ {key}Settings
-├──────────
-│Type : Ayyıldız Tim
-╰──────────
